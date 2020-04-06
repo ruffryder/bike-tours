@@ -9,9 +9,9 @@ or open the index.html file.
 
 ## Future Features:
 
--Add more dynamic content
--Implement user authentication
--Integrate with backend API to get event and user testimonials data
+-  Add more dynamic content
+-  Implement user authentication
+-  Integrate with backend API to get event and user testimonials data
 
 
 ## Author
